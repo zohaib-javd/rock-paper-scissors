@@ -27,7 +27,7 @@ A **fun and interactive Rock Paper Scissors game** built using **Python & Stream
 ---
 
 ## 🚀 **Live Demo**  
-🔗 **Play Here:** [Live Link Goes Here]  
+🔗 **Play Here:** [[Live Link](https://zeejay-rock-paper.streamlit.app/)]  
 
 ---
 
