@@ -33,10 +33,10 @@ A **fun and interactive Rock Paper Scissors game** built using **Python & Stream
 
 ## 🖼️ **Screenshots**  
 ### 🎲 Game Interface  
-![Game Screenshot](image\screenshot1.png)  
+![Game Screenshot](image/screenshot1.png)  
 
 ### 🏆 Winning Celebration  
-![Victory Celebration](image\screenshot2.png)  
+![Victory Celebration](image/screenshot2.png)  
 
 ---
 
